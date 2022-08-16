@@ -1,0 +1,7 @@
+apiVersion: v2
+name: k8s-hello-world
+description: A simple deployment of a "Hello World!" application running on Ruby on Rails 
+
+type: application
+version: 0.0.1
+appVersion: "1.16.0"
